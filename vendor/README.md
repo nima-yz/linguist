@@ -153,6 +153,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Haskell:** [atom-haskell/language-haskell](https://github.com/atom-haskell/language-haskell)
 - **Haxe:** [clemos/haxe-sublime-bundle](https://github.com/clemos/haxe-sublime-bundle)
 - **HCL:** [alexlouden/Terraform.tmLanguage](https://github.com/alexlouden/Terraform.tmLanguage)
+- **Hive:** [adidonato/language-hql](https://github.com/adidonato/language-hql)
 - **HLSL:** [tgjones/shaders-tmLanguage](https://github.com/tgjones/shaders-tmLanguage)
 - **HTML:** [textmate/html.tmbundle](https://github.com/textmate/html.tmbundle)
 - **HTML+Django:** [textmate/python-django.tmbundle](https://github.com/textmate/python-django.tmbundle)

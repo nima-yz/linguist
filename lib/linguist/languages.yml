@@ -1878,6 +1878,14 @@ Haxe:
   - ".hxsl"
   tm_scope: source.haxe.2
   language_id: 158
+Hive:
+  type: programming
+  ace_mode: sql
+  extensions:
+  - ".q"
+  color: "#ffdd00"
+  tm_scope: source.hql
+  language_id: 471340134
 Hy:
   type: programming
   ace_mode: text
