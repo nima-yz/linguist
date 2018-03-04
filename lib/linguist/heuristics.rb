@@ -523,5 +523,11 @@ module Linguist
       end
     end
 
+    disambiguate ".q" do |data|
+      if /[A-Za-z\.]+:{/.match(data) || /(^|\n)\//.match(data) || /\\d .\w*/.match(data)
+        Language["q"]
+      end
+    end
+
   end
 end
